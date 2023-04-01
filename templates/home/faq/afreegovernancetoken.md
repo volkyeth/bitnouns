@@ -15,9 +15,9 @@ order: 3
 
 bitNouns make their home in the Lil Nouns DAO Discord Server. To get started, join the server here: https://discord.gg/lilnouns
 
-*...More on how to verify for a bitNouner Role and to vote, coming soon...*
+*- More on how to verify for a bitNouner Role and to vote, coming soon.*
 
-**Practically Free** 
+**"Practically Free"** 
 
 Our hope was to give an completely free governance token to allow new users to experience Nounish DAO governance with zero cost. Because we chose to use the Nouns.Build tool (for a number of reasons) we were forced to set the auction reserve to .0001 eth (or about $0.20 usd cents). 
 
