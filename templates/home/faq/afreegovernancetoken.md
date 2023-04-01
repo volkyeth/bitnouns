@@ -1,6 +1,6 @@
 ---
-title: A free* Nounish Governance Token
-order: 0
+title: A free* Governance Token
+order: 4
 ---
 
 - bitNouns were formed to give new web3 participants a way to learn about web3, DAOs, and experience Nounish DAO governance while traversing the Nouns101.wtf educational platform.
