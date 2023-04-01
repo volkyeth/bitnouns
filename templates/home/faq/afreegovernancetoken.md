@@ -1,5 +1,5 @@
 ---
-title: A free* Governance Token
+title: A *free Governance Token
 order: 4
 ---
 
