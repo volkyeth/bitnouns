@@ -16,3 +16,4 @@ order: 0
 - bitNounders receive rewards in the form of bitNouns (10% of supply for first 5 years).
 - Lil Nouns DAO receives rewards in the form of bitNouns (10% of supply for first 5 years).
 - bitNouns DAO is for educational purposes only as a lesson apart of www.Nouns101.wtf.
+- bitNouns was sponsored by Lil NounsDAO Proposal 57 alongside Nouns101.wtf
