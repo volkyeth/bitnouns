@@ -1,4 +1,7 @@
-# WTF is Noun Site?
+# WTF is bitNouns?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+bitNouns were formed to give new web3 participants a way to learn about web3, DAOs, and experience Nounish DAO governance while traversing the Nouns101.wtf educational platform.
+
+bitNouns allow token holders to participate in Lil Nouns DAO governance at a practically free cost of entry.
+
+bitNouns was started with just 1 Lil Noun delegated to them by the bitNounders / creators of Nouns101.wtf. The number of tokens delegated to bitNouns may grow over time.
