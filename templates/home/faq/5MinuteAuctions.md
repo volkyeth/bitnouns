@@ -1,6 +1,6 @@
 ---
 title: 5 Minute Auction
-order: 1
+order: 2
 ---
 The bitNouns Auction Contract will act as a self-sufficient bitNoun generation and distribution mechanism, auctioning one bitNoun every 5 minutes, forever. 
 
