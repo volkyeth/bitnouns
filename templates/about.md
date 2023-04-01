@@ -4,20 +4,20 @@ align: left
 
 ## bitNouns
 
-First there were NounsDAO.
+First there was **NounsDAO.**
 
-Then there were Lil Nouns.
+Then there was **Lil Nouns.**
 
-Next came bitNouns.
+Next came **bitNouns.**
 
-An expansion DAO based on Lil Nouns DAO, bitNouns works to create another layer within the Nounish ecosystem; The teeniest tiniest Noun yet.
+An expansion DAO based on Lil Nouns DAO, bitNouns works to create another layer within the Nounish ecosystem; The teeniest tiniest layer yet.
 
-By expanding the ecosystem, bitNouns aims at exposing more people to Lil Nouns, and in turn Nouns DAO/the entire Nounish ecosystem via a practically free way to participate.
+By expanding the ecosystem, bitNouns aims at exposing more people to Lil Nouns DAO, and in turn Nouns DAO and the entire Nounish ecosystem via a **practically free** way to participate.
 
 Although bitNouns have been set up with an auction, the reserve is set for the lowest possible fee + gas fees while using Nouns.Build to:
 
-A. Give new web3 participants a low barier of entry into NFTs.
-B. Give people a chance to enter into the Nouns Ecosystem and experience Nounish governance for as low cost as possible. 
+- Give new web3 participants a low barier of entry into NFTs.
+- Give people a chance to enter into the Nouns Ecosystem and experience Nounish governance for as low cost as possible. 
 
 bitNoun auctions begin on April 1st 2023 with a .0001 eth reserve + Gas fees.
 
