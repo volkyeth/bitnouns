@@ -57,6 +57,7 @@ export default function Hero() {
           <div className="w-full h-auto flex items-center justify-around">
             <Image
               src={tokenInfo.image}
+              unoptimized
               onLoad={() => setImageLoaded(true)}
               height={450}
               width={450}
