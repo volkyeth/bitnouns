@@ -1,5 +1,5 @@
 ---
-title: A Free Governance Token
+title: A free* Nounish Governance Token
 order: 0
 ---
 
