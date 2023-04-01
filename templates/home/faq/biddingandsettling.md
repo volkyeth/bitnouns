@@ -1,6 +1,6 @@
 ---
 title: Bidding and Settling
-order: 2
+order: 3
 ---
 
 **Bids**
