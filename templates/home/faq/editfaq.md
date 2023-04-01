@@ -1,6 +1,6 @@
 ---
 title: Summary
-order: 0
+order: 1
 ---
 
 - Lil Nouns artwork is in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
